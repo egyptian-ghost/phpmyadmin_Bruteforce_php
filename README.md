@@ -11,6 +11,6 @@ Steps to install:
 
 <div align="center">
   <a href="https://github.com/egyptian-ghost/">
-    <img src="[http://ForTheBadge.com/images/badges/made-with-python.svg](https://forthebadge.com/images/badges/made-with-php.svg)" />
+    <img src="https://forthebadge.com/images/badges/made-with-php.svg" />
   </a>
 </div>
