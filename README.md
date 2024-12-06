@@ -1,8 +1,8 @@
 # phpmyadmin Bruteforce php
 PhpMyAdmin Brute Force tool using php
+  With sending the results on Telegram
 <h1 align="center">
   PhpMyAdmin BruteForce tool
-  With sending the results on Telegram
 </h1>
 
 Steps to install:
