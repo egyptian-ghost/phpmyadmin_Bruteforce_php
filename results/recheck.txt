@@ -1,0 +1,2 @@
+http://127.0.0.1/phpMyAdmin/ | root | 01012177001
+http://127.0.0.1/phpMyAdmin/ | root | 01012177001
