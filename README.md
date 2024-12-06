@@ -9,6 +9,15 @@ Steps to install:
 - <pre> cd phpmyadmin_Bruteforce_php </pre>
 - <pre> php eg_bf.php </pre>
 
+
+Usage
+----
+
+To get a list of basic options and switches use:
+
+    php eg_bf.php
+
+
 <div align="center">
   <a href="https://github.com/egyptian-ghost/">
     <img src="https://forthebadge.com/images/badges/made-with-php.svg" />
