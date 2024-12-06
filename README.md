@@ -2,6 +2,7 @@
 PhpMyAdmin Brute Force tool using php
 <h1 align="center">
   PhpMyAdmin BruteForce tool
+  With sending the results on Telegram
 </h1>
 
 Steps to install:
